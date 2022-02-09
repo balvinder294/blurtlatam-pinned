@@ -1,0 +1,17 @@
+[
+  {
+    "name":"freakeao",
+    "category":"curator",
+    "description":"Runs a blurtlam community"
+  },
+  {
+    "name":"tekraze",
+    "category":"developer",
+    "description":"Do All the dev work"
+  },
+  {
+    "name":"eastmael",
+    "category":"developer",
+    "description":"Do dev contributions"
+  }
+]
