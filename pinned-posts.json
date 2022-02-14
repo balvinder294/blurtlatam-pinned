@@ -1,30 +1,26 @@
 {
     "featured_posts": [
         "/@blurtlatam/blurtlatam-com-is-back-or-or-blurtlatam-com-esta-de-regreso",
-        "/@eastmael/blurtopian-dev-blurtkey-v1-2-1-release-2022-02-13",
-        "/@tekraze/show-up-yourself-with-emojis-and-frontend-updates-or-devlog-25-or-feb-3-2022"
+        "/@eastmael/blurtopian-dev-blurtkey-v1-2-1-release-2022-02-13"
+        
     ],
     "promoted_posts": [
-        "/@hornet-on-tour/introduce-hornet-on-tour-blogger-witness-kurator-validator",
-        "/@mineopoly/lunar-new-year-story",
-        "/@estebanuto/cover-amo-las-estrellas-de-zapato-3-sound-by-estebanuto",
-        "/@franyuca0102/mi-presentacion-en-blurt-my-presentation-in-blurt",
-        "/@alendomaster619/plagiarism-its-causes-consequences-and-how-to-avoid-it-by-alendomaster619",
         "/@techclub/valentine-week-404-not-found-or-devs-on-work",
-        "/@angelica7/gamestate-el-futuro-en-el-metaverso"
+        "/@rajitsear/blurt-hospital-on-paper",
+        "/@angelica7/gamestate-el-futuro-en-el-metaverso",
+        "/@blessed-girl/happy-valentine-s-day",
+        "/@nazirhussain/my-entry-post-for-tariqueshafique-contest-topic-fear-of-snakes-and-water-horror-story"
+
     ],
     "notices": [
         {"permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"},
-        {"permalink": "/@tekraze/cover-image-summary-coal-list-frontend-updates-or-devlog-20-or-10-jan-2021"},
         {"permalink": "/@saboin/account-recovery-or-dev-update-2022-02-03"},
         {"permalink": "/@blurtofficial/psa-swap-blurt-activated-on-hive-engine-replacing-blurtlink"},
-        {"permalink": "/@blurtofficial/welcome-to-the-blurtaverse-get-your-avatar-now"},
-        {"permalink": "/@angelica7/social-etiquette-and-how-to-succeed-on-blurt"},
         {"permalink": "/@gamestate/blurt-enginedrop-attestation-gamestate-megaverse"}
     ],
     "contests": [
-        {"permalink": "/@randula/bpud-count-down-or-5-days-ahead"},
-        {"permalink": "/@blurtconnect-ng/wave-of-comments-on-blurt-mini-contest-20"},
-        {"permalink": "/@powerclub/powerclub-best-web-series-contest-or-winner-announcement"}
+        {"permalink": "/@dsc-r2cornell/r2cornell-contest-week-3-love-song"},
+        {"permalink": "/@blurtlatam/blurtlatam-contest-or-semana-2"},
+        {"permalink": "/@powerclub/38ahsi-or-or"}
     ]
 }
