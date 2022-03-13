@@ -1,13 +1,15 @@
 {
     "featured_posts": [
-        "/@blurt.one/blurt-one-frontend-and-witness-announcement",
+        "/@blurt.one/development-updates-2-or-13-march-or-2024-or-blurt-buzz-and-dapps",
         "/@blurt.live/blurt-live-witness-announcement",
         "/@blurtlatam/blurtlatam-com-is-back-or-or-blurtlatam-com-esta-de-regreso"
     ],
     "promoted_posts": [
         "/@blessed-girl/good-week",
         "/@hornet-on-tour/goodbye-blurt-blog",
-        "/@bring/blurt-practicalthought-blurt-personality-24-practicalthought"
+        "/@bring/blurt-practicalthought-blurt-personality-24-practicalthought",
+        "/@imransoudagar/unwritten-rules-and-roles-of-a-blurt-witness",
+        "/@blurtconnect-ng/blurt-promotion-blurtconnect-ng-launch-twitter-audio-space-arena"
     ],
     "notices": [
         {"permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"},
@@ -16,6 +18,8 @@
     ],
     "contests": [
         {"permalink": "/@dsc-r2cornell/r2cornell-contest-week-3-love-song"},
-        {"permalink": "@alejos7ven/blurt-challenge-contest-1-photography-and-nature-esp-eng"}  
+        {"permalink": "/@alejos7ven/blurt-challenge-contest-1-photography-and-nature-esp-eng"},
+        {"permalink": "/@techclub/post-a-selfie-contest-or-or-happy-international-women-s-day-celebration-or-or-205-blurt-to-be-won"},
+        {"permalink": "/@blurtchallenge/blurt-challenge-week-3-esp-eng"}
     ]
 }
