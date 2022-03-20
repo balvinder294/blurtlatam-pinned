@@ -1,16 +1,15 @@
 {
     "featured_posts": [
-        "/@blurt.one/development-updates-2-or-13-march-or-2024-or-blurt-buzz-and-dapps",
-        "/@blurt.live/blurt-live-witness-announcement",
-        "/@blurtlatam/blurtlatam-com-is-back-or-or-blurtlatam-com-esta-de-regreso"
+        "/@zahidsun/how-to-deposit-and-withdraw-blurt-on-pancakeswap",
+        "/@blurt.one/development-updates-2-or-13-march-or-2024-or-blurt-buzz-and-dapps"
     ],
     "promoted_posts": [
-        "/@blessed-girl/good-week",
-        "/@hornet-on-tour/goodbye-blurt-blog",
-        "/@bring/blurt-practicalthought-blurt-personality-24-practicalthought",
+        "/@gamestate/pillars-of-truth-and-gamestate",
         "/@imransoudagar/unwritten-rules-and-roles-of-a-blurt-witness",
-        "/@blurtconnect-ng/blurt-promotion-blurtconnect-ng-launch-twitter-audio-space-arena",
-        "/@kamranrkploy/if-you-want-to-run-a-witness-node-for-blurt-this-is-the-post-for-you"
+        "/@kamranrkploy/if-you-want-to-run-a-witness-node-for-blurt-this-is-the-post-for-you",
+        "/@rycharde/blurt-economic-indicators-20-march-2022",
+        "/@offgridlife/world-famous-youtube-gamer-and-artist-gubbatv-has-joined-blurt-via-dtube",
+        "/@tekraze/zeevoi1leh6"
     ],
     "notices": [
         {"permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"},
@@ -18,9 +17,8 @@
         {"permalink": "/@blurtofficial/psa-swap-blurt-activated-on-hive-engine-replacing-blurtlink"}
     ],
     "contests": [
-        {"permalink": "/@dsc-r2cornell/r2cornell-contest-week-3-love-song"},
-        {"permalink": "/@alejos7ven/blurt-challenge-contest-1-photography-and-nature-esp-eng"},
-        {"permalink": "/@techclub/post-a-selfie-contest-or-or-happy-international-women-s-day-celebration-or-or-205-blurt-to-be-won"},
-        {"permalink": "/@blurtchallenge/blurt-challenge-week-3-esp-eng"}
+        {"permalink": "/@blurtconnect-ng/season-1-blurtconnect-games-call-for-team-registration"},
+        {"permalink": "/@endplagiarism/daily-contest-end-plagiarism-6"},
+        {"permalink": "/@onchain-curator/occ-s-share-and-earn-contest-3rd-week"}
     ]
 }
