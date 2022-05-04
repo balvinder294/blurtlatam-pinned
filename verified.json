@@ -1,222 +1,186 @@
 [
   {
-    "name":"freakeao",
-    "category":"witness, curator",
-    "description":"blurtlatam community"
+    "name": "freakeao",
+    "category": "witness, curator",
+    "description": "blurtlatam community"
   },
   {
-    "name":"tekraze",
-    "category":"witness, developer",
-    "description":"Do All the dev work"
+    "name": "tekraze",
+    "category": "witness, developer",
+    "description": "Do All the dev work"
   },
   {
-    "name":"eastmael",
-    "category":"witness, developer",
-    "description":"Do dev contributions"
+    "name": "eastmael",
+    "category": "witness, developer",
+    "description": "Do dev contributions"
   },
- {
-    "name":"geeklania",
-    "category":"content creator",
-    "description":"owner blurthispano community"
+  {
+    "name": "geeklania",
+    "category": "content creator",
+    "description": "owner blurthispano community"
   },
-{
-    "name":"vickyguevara",
-    "category":"content creator",
-    "description":"owner blurtlatam community"
+  {
+    "name": "vickyguevara",
+    "category": "content creator",
+    "description": "owner blurtlatam community"
   },
-{
-    "name":"blessed-girl",
-    "category":"content creator, curator",
-    "description":"r2cornell community"
+  {
+    "name": "blessed-girl",
+    "category": "content creator, curator",
+    "description": "r2cornell community"
   },
-{
-    "name":"adetorrent",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "adetorrent",
+    "category": "content creator"
   },
-{
-    "name":"alejandrop",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "alejandrop",
+    "category": "content creator"
   },
-{
-    "name":"amicablepeace",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "amicablepeace",
+    "category": "content creator"
   },
-{
-    "name":"elkezaksek",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "elkezaksek",
+    "category": "content creator"
   },
-{
-    "name":"hornet-on-tour",
-    "category":"witness, curator",
-    "description":"  "
+  {
+    "name": "hornet-on-tour",
+    "category": "witness, curator"
   },
-{
-    "name":"practicalthought",
-    "category":"content creator",
-    "description":"  "
-{
-    "name":"mineopoly",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "practicalthought",
+    "category": "content creator"
   },
-{
-    "name":"bring",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "mineopoly",
+    "category": "content creator"
   },
-{
-    "name":"alejos7ven",
-    "category":"witness, developer",
-    "description":"Do dev contributions"
+  {
+    "name": "bring",
+    "category": "content creator"
   },
-{
-    "name":"clixmoney",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "alejos7ven",
+    "category": "witness, developer",
+    "description": "Do dev contributions"
   },
-{
-    "name":"dirtyharryhh",
-    "category":"witness",
-    "description":"  "
+  {
+    "name": "clixmoney",
+    "category": "content creator"
   },
-{
-    "name":"dzigbordi",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "dirtyharryhh",
+    "category": "witness"
   },
-{
-    "name":"firdaus1998",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "dzigbordi",
+    "category": "content creator"
   },
-{
-    "name":"gabrieladifazio",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "firdaus1998",
+    "category": "content creator"
   },
-{
-    "name":"harmonic",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "gabrieladifazio",
+    "category": "content creator"
   },
-{
-    "name":"ifullamri",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "harmonic",
+    "category": "content creator"
   },
-{
-    "name":"kathe-art",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "ifullamri",
+    "category": "content creator"
   },
-{
-    "name":"kkarenmp",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "kathe-art",
+    "category": "content creator"
   },
-{
-    "name":"lachicarebelde",
-   "category":"content creator",
-    "description":"  "
+  {
+    "name": "kkarenmp",
+    "category": "content creator"
   },
-{
-    "name":"leifasaur",
-   "category":"curator",
-    "description":"blurtafrica community"
+  {
+    "name": "lachicarebelde",
+    "category": "content creator"
   },
-{
-    "name":"luhpirela",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "leifasaur",
+    "category": "curator",
+    "description": "blurtafrica community"
   },
-{
-    "name":"mattsanthonyit",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "luhpirela",
+    "category": "content creator"
   },
-{
-    "name":"randula",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "mattsanthonyit",
+    "category": "content creator"
   },
-{
-    "name":"rajitsear",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "randula",
+    "category": "content creator"
   },
-{
-    "name":"olivia08",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "rajitsear",
+    "category": "content creator"
   },
-{
-    "name":"nazirhussain",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "olivia08",
+    "category": "content creator"
   },
-{
-    "name":"tariqueshafique",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "nazirhussain",
+    "category": "content creator"
   },
-{
-    "name":"buzzer11",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "tariqueshafique",
+    "category": "content creator"
   },
-{
-    "name":"dsc-r2cornell",
-    "category":"curation account",
-    "description":"  "
+  {
+    "name": "buzzer11",
+    "category": "content creator"
   },
-{
-    "name":"blurtconnect-ng",
-    "category":"curation account",
-    "description":"  "
+  {
+    "name": "dsc-r2cornell",
+    "category": "curation account"
   },
-{
-    "name":"blurtlatam",
-    "category":"Witness, curation account",
-    "description":"  "
+  {
+    "name": "blurtconnect-ng",
+    "category": "curation account"
   },
-{
-    "name":"blurthispano",
-    "category":"Witness, curation account",
-    "description":"  "
+  {
+    "name": "blurtlatam",
+    "category": "Witness, curation account"
   },
-{
-    "name":"blurthispano",
-    "category":"Witness, curation account",
-    "description":"  "
+  {
+    "name": "blurthispano",
+    "category": "Witness, curation account"
   },
-{
-    "name":"double-u",
-    "category":"Witness ",
-    "description":"  "
+  {
+    "name": "blurthispano",
+    "category": "Witness, curation account"
   },
-{
-    "name":"nerdtopiade",
-    "category":"Witness ",
-    "description":"  "
+  {
+    "name": "double-u",
+    "category": "Witness"
   },
-{
-    "name":"filosof103",
-    "category":"content creator",
-    "description":"  "
+  {
+    "name": "nerdtopiade",
+    "category": "Witness"
   },
-{
-    "name":"reiseamateur",
-    "category":"Witness ",
-    "description":"  "
+  {
+    "name": "filosof103",
+    "category": "content creator"
   },
-{
-    "name":"dotwin1981",
-    "category":"Witness ",
-    "description":"  "
+  {
+    "name": "reiseamateur",
+    "category": "Witness"
+  },
+  {
+    "name": "dotwin1981",
+    "category": "Witness"
   }
-
 ]
