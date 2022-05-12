@@ -1,18 +1,15 @@
 {
     "featured_posts": [
+        "/@imransoudagar/tinkering-with-blurt-live",
         "/@blurt.one/development-updates-3-or-4-may-2022-or-summary-or-tags-or-promoted-member-feature",
         "/@zahidsun/blurt-deposit-and-withdrawal-process-on-probit-exchange",
-        "/@imransoudagar/blurt-is-now-a"
     ],
     "promoted_posts": [
-        "/@blurtlatam/7c89pr-community-incubation-program-or-programa-incubacion-de-comunidades"
-        
+        "/@blurtlatam/7c89pr-community-incubation-program-or-programa-incubacion-de-comunidades"        
     ],
     "notices": [
         {"permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"},
         {"permalink": "/@saboin/account-recovery-or-dev-update-2022-02-03"}  
     ],
-    "contests": [
-        {"permalink": "/@blurttribe/blurttribe-diary-game-post-or-top-picks"}
-    ]
+    "contests": []
 }
