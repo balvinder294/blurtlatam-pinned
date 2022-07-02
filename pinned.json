@@ -1,12 +1,17 @@
 {
-  "featured_posts": [],
-  "promoted_posts": [],
-  "notices": [
-    {
-      "permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"
-    },
-    {
-      "permalink": "/@saboin/account-recovery-or-dev-update-2022-02-03"
-    }
-  ]
+    "featured_posts": [
+        "/@blurtofficial/temporary-blurt-outages-and-wallet-power-down-error",
+        "/@blurtofficial/blurt-2-year-anniversary-update-part-1"
+    ],
+    "promoted_posts": [],
+    "notices": [
+        {"permalink": "/@tekraze/dev-updates-blurt-wallet-witness-list-fixed-with-filters-or-devlog-34-or-may-27-2022"},
+        {"permalink": "/@saboin/fix-for-broadcast-errors-and-server-disconnects-or-dev-update-2022-05-16"},
+        {"permalink": "/@saboin/incoming-delegations-now-shown-in-wallet-or-dev-update-2022-02-26"},
+        {"permalink": "/@tekraze/finally-dapps-page-for-tools-and-dapps-for-blurt-ecosystem-is-live-or-devlog-23-or-jan-26-2022"},
+        {"permalink": "/@blurtofficial/psa-swap-blurt-activated-on-hive-engine-replacing-blurtlink"},
+        {"permalink": "/@blurtofficial/welcome-to-the-blurtaverse-get-your-avatar-now"},
+        {"permalink": "/@angelica7/social-etiquette-and-how-to-succeed-on-blurt"},
+        {"permalink": "/@gamestate/blurt-enginedrop-attestation-gamestate-megaverse"}
+    ]
 }
