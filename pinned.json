@@ -1,5 +1,7 @@
 {
-    "featured_posts": [],
+    "featured_posts": [
+        "/@blurtofficial/blurt-blockchain-back-up-and-running-with-all-services-fully-restored"
+    ],
     "promoted_posts": [],
     "notices": [
         {"permalink": "/@tekraze/dev-updates-blurt-wallet-witness-list-fixed-with-filters-or-devlog-34-or-may-27-2022"},
