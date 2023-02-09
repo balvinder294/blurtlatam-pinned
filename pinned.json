@@ -1,10 +1,6 @@
 {
-    "featured_posts": [
-        "/@tekraze/devlog-42-or-blurt-blog-frontend-updates-or-reading-time-or-rss-feed-or-19-november-2022",
-        "/@tekraze/devlog-41-or-blurt-blog-frontend-updates-or-account-info-tab-or-claim-button-or-fixes-29-october-2022"
-    ],
-    "promoted_posts": [
-    ],
+    "featured_posts": [],
+    "promoted_posts": [],
     "notices": [
         {"permalink": "/@tekraze/dev-updates-blurt-wallet-witness-list-fixed-with-filters-or-devlog-34-or-may-27-2022"},
         {"permalink": "/@saboin/fix-for-broadcast-errors-and-server-disconnects-or-dev-update-2022-05-16"},
